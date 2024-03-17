@@ -1,6 +1,14 @@
-# j2-yaml
+# j2yaml
 Jinja2-templates inside YAML-files. 
 Simply trying to mimic cookiecutter or Ansible in how Jinja is parsed within YAML-files.
+
+## Install
+
+```bash
+pip install j2yaml
+```
+
+## Usage Example
 
 ```yaml
 ---
